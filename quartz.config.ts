@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: null,
     locale: "de-DE",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "Fabian-Anna.github.io/dnd-travels",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
