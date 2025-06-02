@@ -1,4 +1,13 @@
+---
+title: Eintrag 3 - Schleier(un)wacht und fehlende Gastfreundschaft
+draft: false
+tags:
+	- tagebuch
+	- session
+---
+
 An Yolinda Federkiel,
+
 _Archivarische Hoheit über Pergament, Wissen und Präzision_
 
 Ich habe endlich Schleierwacht erreicht. Ein gewisser Glanz vergangener Tage umweht diese auf einem Hügel thronende Burgstadt – leider weitaus mehr vergangen als glänzend. Die Häuser neigen sich im Wind, die Pflastersteine führen Selbstgespräche, und die Stadtmauern sehen aus, als hätte ein besonders fauler Troll sie aus Versehen errichtet.
