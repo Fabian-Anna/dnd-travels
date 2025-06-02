@@ -10,7 +10,7 @@ _Ein Archiv technomagischer Abenteuer_
 > — **Tilo Kupferzahn**, Rune-Carver, Reisender, gelegentlich genial
 
 Willkommen im persönlichen Archiv der Reisebriefe von **Tilo Kupferzahn**, einem aufstrebenden Felsgnom, der es sich zur Lebensaufgabe gemacht hat, uralte Runen, technomagische Artefakte und seine sonstige Reisen zu dokumentieren.  
-Diese Sammlung enthält **Briefe**, die Tilo regelmäßig an die Archivarin **Yolinda von Harnheim** sendet – als Teil seines persönlichen Rechenschaftsberichts (und weil er einfach gern schreibt, obwohl er es nicht gerne zugibt).
+Diese Sammlung enthält **Briefe**, die Tilo regelmäßig an die Archivarin **Yolinda Federkiel** sendet – als Teil seines persönlichen Rechenschaftsberichts (und weil er einfach gern schreibt, obwohl er es nicht gerne zugibt).
 
 > [!info] **Meta**
 > Hierbei handelt es sich um eine rein fiktive Darstellung eines D&D-Abenteuers aus der subjektiven Sicht eines einzelnen Charakters. Diese Tagebücher dienen mir selber als Gedächtnisstütze nach Sessions und zur Rekapitulation dieser. Falls sie jemandem gefallen oder ein Lächeln auf die Lippen bringen freut mich das.
