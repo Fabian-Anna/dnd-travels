@@ -2,11 +2,10 @@
 title: Eintrag 2 - Flussblicke und flatternde Nerven
 draft: false
 tags:
-	- tagebuch
+- tagebuch
 ---
 
-An Yolinda Federkiel,
-
+An Yolinda Federkiel,\
 _Archivarische Hoheit über Pergament, Wissen und Präzision_
 
 Heute Mittag entdeckte ich die ersten Anzeichen von Zivilisation – genauer gesagt: eine verwitterte Turmspitze auf einem Hügel, eingerahmt von dichtem Grün und schwachem Nebel. [[Schleierwacht]], wie mir ein mürrischer Fischer zurief, sei „gleich dahinter“.
